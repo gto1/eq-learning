@@ -1,0 +1,55 @@
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>The QUANTUMEDIA EQ. LEARNING TOOL</title> 
+<link>http://www.gregory-otoole.com/eq/</link>
+<itunes:subtitle>Broadcast Headquarters for the Quantumedia Experiment</itunes:subtitle>
+<description>The EQ. LEARNING TOOL is a universal, online and mobile media environment that utilizes real-time interaction and a "Swiss-Army" approach to learning, combining 1.) the QMX-Wiki (R); 2.) the Storyscape (R) classroom documentation timeline, and; 3.) the QMX Resource Archives (R) for the benefit of enrolled and guest students, academics, technicians and artists. The goal is for not only the founder of the application to create content for students and colleagues, but for the students and colleagues themselves to interact with and contribute to the learning environment, creating a media-educational space that continues to augment itself across time.</description>
+<itunes:author>Gregory O'Toole</itunes:author>
+<itunes:owner>
+<itunes:name>Gregory O'Toole</itunes:name>
+<itunes:email>gotoole@du.edu</itunes:email>
+</itunes:owner>
+
+<!-- iTunes prefers square images 300x300 pixels or larger -->
+<itunes:image href="http://gregory-otoole.com/images/qmx-logo.jpg" />
+<!-- iTunes Browse blog-cast Category -->
+<itunes:category text="Education">
+  
+<language>en-us</language> 
+<itunes:explicit>No</itunes:explicit>
+
+
+
+<image>
+<url>http://gregory-otoole.com/images/qmx-logo.jpg</url> 
+<title>Gregory O'TOOLE / RADIO-QMX</title> 
+<link>http://www.gregory-otoole.com/eq/</link>
+</image>
+ 
+<generator>http://www.gregory-otoole.com/eq/</generator> 
+<copyright>Copyright 2007 RADIO-QMX, Inc. The contents of this feed are available for non-commercial use only. See http://www.radio-qmx.org/eq/ for more details.</copyright> 
+
+   
+<!-- ============== start Item  ============== -->
+  <item>
+  <title>Announcing the new EQ. LEARNING TOOL from RADIO-QMX</title> 
+
+  <link></link> 
+  <description>
+      <![CDATA[ 
+	
+	<p><font face="Arial, Helvetica, sans-serif" size="2">Announcing the new EQ. LEARNING TOOL from RADIO-QMX. The EQ. LEARNING TOOL (R) is a universal, online and mobile media environment that utilizes real-time interaction and a "Swiss-Army" approach to learning, combining 1.) the QMX-Wiki (R); 2.) the Storyscape (R) classroom documentation timeline, and; 3.) the QMX Resource Archives (R) for the benefit of enrolled and guest students, academics, technicians and artists. The goal is for not only the founder of the application to create content for students and colleagues, but for the students and colleagues themselves to interact with and contribute to the learning environment, creating a media-educational space that continues to augment itself across time.</font></p>
+		  ]]></description> 
+  <enclosure url="" length="90000" type="text/html" /> 
+	    <pubDate>Sat, 25 Nov 2006 3:47:03 MST</pubDate> 
+  </item>
+  <!-- ============== / end Item  ============== -->   
+
+   
+   
+   
+</itunes:category>
+</channel>
+</rss>
+
